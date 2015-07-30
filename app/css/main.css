@@ -1,0 +1,12 @@
+html,body {
+	margin: 0;
+	background-color: #E5E5E5;
+	font-family: 'RobotoDraft', sans-serif;
+	height: 100%;
+}
+
+#video-photo-container {
+	background: url(http://www.waynestiles.com/wp-content/uploads/2012/05/King-David-statue-on-Mount-.jpg) no-repeat 50% 50%;
+	background-size: cover;
+}
+
